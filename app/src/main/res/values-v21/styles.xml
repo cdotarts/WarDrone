@@ -8,4 +8,8 @@
         <!--   theme UI controls like checkboxes and text fields -->
         <item name="colorAccent">#FF4081</item>
     </style>
+    <color name="fab_color_1">#FF4081</color>
+    <color name="fab_color_1_muted">#ff8080</color>
+    <color name="fab_color_2">#303F9F</color>
+    <color name="fab_color_2_muted">#3F51B5</color>
 </resources>
